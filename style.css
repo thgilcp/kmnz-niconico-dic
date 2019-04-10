@@ -1,0 +1,217 @@
+body {
+  max-width: 720px;
+}
+
+body * {
+  color: #222;
+  background: #f9f9f9;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  border: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.margin {
+  margin: 0.5em;
+}
+
+h2 {
+  margin-top: 1em;
+  padding: 0.2em 1em;
+  color: #f9f9f9;
+  background: #222;
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 1em;
+  padding: 0.2em 1em;
+  border-bottom: 2px solid #222;
+  font-weight: bold;
+}
+
+h3 a {
+  font-size: 1em;
+}
+
+h4 {
+  margin-top: 1em;
+  padding: 0.2em 1em;
+  border-bottom: 1px solid #222;
+  font-weight: bold;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.lyric {
+  margin: 1em 0em;
+}
+
+.lyric > p {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  letter-spacing: 0em;
+}
+
+.article > p {
+  margin: 0.5em;
+  text-indent: 0.5em;
+  line-height: 1.75em;
+  letter-spacing: 0.05em;
+}
+
+.profile {
+  border: 3px solid #f9f9f9;
+  overflow: auto;
+}
+
+.profile table {
+  width: 49%;
+}
+.profile table.lita {
+  float: left;
+  border: 3px solid darkgoldenrod;
+}
+.profile table.liz {
+  float: right;
+  border: 3px solid palevioletred;
+}
+
+.profile table th.name {
+  font-size: 1.3em;
+  text-align: center;
+  font-weight: bold;
+  color: #f9f9f9;
+}
+.profile table.lita th.name {
+  background: darkgoldenrod;
+}
+.profile table.liz th.name {
+  background: palevioletred;
+}
+
+.profile table th {
+  padding: 3px 0;
+  text-align: center;
+  font-weight: bold;
+  color: #f9f9f9;
+}
+.profile table.lita th {
+  background: darkgoldenrod;
+}
+.profile table.liz th {
+  background: palevioletred;
+}
+
+.profile table td {
+  text-align: center;
+  background: #f9f9f9;
+}
+.profile table.lita td {
+  border-bottom: 1px solid darkgoldenrod;
+  color: darkgoldenrod;
+}
+.profile table.liz td {
+  border-bottom: 1px solid palevioletred;
+  color: palevioletred;
+}
+
+.profile table td a {
+  text-align: center;
+  background: #f9f9f9;
+}
+.profile table.lita td a {
+  color: darkgoldenrod;
+}
+.profile table.liz td a {
+  color: palevioletred;
+}
+
+.profile .icon {
+  width: 100%;
+}
+
+.list {
+  margin: 0.5em;
+}
+
+.list ul {
+  padding-left: 1em;
+  line-height: 1.75em;
+  letter-spacing: 0.05em;
+}
+.list ul.first {
+  list-style: disc outside;
+}
+.list ul.second {
+  margin-left: 0.5em;
+  list-style: circle outside;
+}
+
+.list li > p {
+  margin-left: 1em;
+}
+
+.scroll {
+  margin: 0.5em;
+  border: solid 1px #222;
+  overflow: auto;
+}
+.scroll.history {
+  max-height: 17.25em;
+}
+.scroll.music {
+  max-height: 28.5em;
+}
+.scroll.collaboration,
+.scroll.program,
+.scroll.event {
+  max-height: 12em;
+}
+.scroll.kmnsupply,
+.scroll.guest {
+  max-height: 9em;
+}
+.scroll.kmnzart {
+  max-height: 28em;
+  background: #222;
+  text-align: center;
+}
+
+.kmnzart .square {
+  display: inline;
+  background: #222;
+  padding: 1em;
+}
+
+.kmnzart a,
+.kmnzart img {
+  background: #222;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.annotation {
+  text-align: right;
+  font-size: 13px;
+  line-height: 1.75em;
+  letter-spacing: 0.05em;
+}
