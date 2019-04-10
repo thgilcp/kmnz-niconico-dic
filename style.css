@@ -3,13 +3,21 @@ body {
 }
 
 body * {
-  color: #222;
-  background: #f9f9f9;
+  color: #2a2a2a;
   font-size: 16px;
   margin: 0;
   padding: 0;
   text-decoration: none;
   border: none;
+  background: none;
+}
+
+.base {
+  background: #f9f9f9;
+}
+
+.base > .background-image{
+  background-attachment: fixed;
 }
 
 .bold {
@@ -28,16 +36,17 @@ h2 {
   margin-top: 1em;
   padding: 0.2em 1em;
   color: #f9f9f9;
-  background: #222;
-  font-size: 1.7em;
+  background: #2a2a2a;
+  font-size: 1.8em;
   font-weight: bold;
+  border-radius: 0.1em;
 }
 
 h3 {
   font-size: 1.2em;
   margin-top: 1em;
   padding: 0.2em 1em;
-  border-bottom: 2px solid #222;
+  border-bottom: 2px solid #2a2a2a;
   font-weight: bold;
 }
 
@@ -48,15 +57,11 @@ h3 a {
 h4 {
   margin-top: 1em;
   padding: 0.2em 1em;
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid #2a2a2a;
   font-weight: bold;
 }
 
-.logo {
-  text-align: center;
-}
-
-.logo img {
+.logo img{
   width: 100%;
 }
 
@@ -79,8 +84,11 @@ h4 {
 }
 
 .profile {
-  border: 3px solid #f9f9f9;
   overflow: auto;
+}
+
+.profile *{
+  background-color: transparent;
 }
 
 .profile table {
@@ -88,11 +96,9 @@ h4 {
 }
 .profile table.lita {
   float: left;
-  border: 3px solid darkgoldenrod;
 }
 .profile table.liz {
   float: right;
-  border: 3px solid palevioletred;
 }
 
 .profile table th.name {
@@ -101,37 +107,43 @@ h4 {
   font-weight: bold;
   color: #f9f9f9;
 }
-.profile table.lita th.name {
-  background: darkgoldenrod;
-}
-.profile table.liz th.name {
-  background: palevioletred;
-}
 
 .profile table th {
   padding: 3px 0;
   text-align: center;
   font-weight: bold;
   color: #f9f9f9;
+  border: 2px solid #f9f9f9;
 }
+
+.profile table th {
+  border-radius: 0.2em;
+}
+
 .profile table.lita th {
-  background: darkgoldenrod;
+  background-color: #ffd580;
 }
+
 .profile table.liz th {
-  background: palevioletred;
+  background-color: #ff7fd3;
 }
 
 .profile table td {
   text-align: center;
   background: #f9f9f9;
+  border: 2px solid #f9f9f9;
+  border-radius: 0.2em;
 }
+
 .profile table.lita td {
-  border-bottom: 1px solid darkgoldenrod;
-  color: darkgoldenrod;
+  border-bottom: 2px solid #ffca5f;
+  border-right:  2px solid #ffca5f;
+  color: #ffca5f;
 }
 .profile table.liz td {
-  border-bottom: 1px solid palevioletred;
-  color: palevioletred;
+  border-bottom: 2px solid #ff7fd3;
+  border-right: 2px solid #ff7fd3;
+  color: #ff7fd3;
 }
 
 .profile table td a {
@@ -139,14 +151,30 @@ h4 {
   background: #f9f9f9;
 }
 .profile table.lita td a {
-  color: darkgoldenrod;
+  color: #ffca5f;
 }
 .profile table.liz td a {
-  color: palevioletred;
+  color: #ff7fd3;
 }
 
-.profile .icon {
-  width: 100%;
+.profile table.lita td.icon{
+  background: linear-gradient(#ffd580, #ff7fd3);
+  border-bottom: 2px solid #f9f9f9;
+  border-right: 2px solid #f9f9f9;
+  border-radius: 0.2em;
+}
+
+.profile table.liz td.icon{
+  background: linear-gradient(#ff7fd3, #ffd580);
+  border-bottom: 2px solid #f9f9f9;
+  border-right: 2px solid #f9f9f9;
+  border-radius: 0.2em;
+}
+
+.profile img.icon {
+  width: 90%;
+  margin: 0.5em;
+  border-radius: 0.1em;
 }
 
 .list {
@@ -172,7 +200,7 @@ h4 {
 
 .scroll {
   margin: 0.5em;
-  border: solid 1px #222;
+  border: solid 1px #2a2a2a;
   overflow: auto;
 }
 .scroll.history {
@@ -192,19 +220,19 @@ h4 {
 }
 .scroll.kmnzart {
   max-height: 28em;
-  background: #222;
+  background: #2a2a2a;
   text-align: center;
 }
 
 .kmnzart .square {
   display: inline;
-  background: #222;
+  background: #2a2a2a;
   padding: 1em;
 }
 
 .kmnzart a,
 .kmnzart img {
-  background: #222;
+  background: #2a2a2a;
   max-width: 300px;
   max-height: 300px;
 }
@@ -214,4 +242,26 @@ h4 {
   font-size: 13px;
   line-height: 1.75em;
   letter-spacing: 0.05em;
+}
+
+a.mv{
+  color: #f9f9f9;
+  font-weight: bold;
+  padding: 0.2em 0.5em;
+  border-radius: 0.2em;
+}
+a.mv.lita{
+  background: linear-gradient(#ffd580, #ffd580, #ffd580, #ff7fd3);
+}
+a.mv.liz{
+  background: linear-gradient(#ff7fd3,#ff7fd3,#ff7fd3, #ffd580);
+}
+a.mv.lita.liz{
+  background: linear-gradient(#ffd580, #ff7fd3);
+}
+a.mv.lita.liz.yaca{
+  background: linear-gradient(#ffd580, #ff7fd3, #d4ff80);
+}
+a.mv.lita.liz.ponpoko{
+  background: linear-gradient(#ffd580, #ff7fd3, #d4ff80);
 }

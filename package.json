@@ -1,14 +1,13 @@
 {
   "name": "kmnz-niconico-dic",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "PC版表示 https://dic.nicovideo.jp/a/kmnz?v=pc&from=look_pcver",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/thgilcp/kmnz-niconico-dic"
+    "url": "https://github.com/thgilcp/kmnz-niconico-dic"
   },
   "keywords": [
     "KMNZ"
