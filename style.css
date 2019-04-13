@@ -37,6 +37,7 @@ h2 {
   padding: 0.2em 1em;
   color: #f9f9f9;
   background: #2a2a2a;
+  background: linear-gradient(#404040, #2a2a2a, #404040);
   font-size: 1.8em;
   font-weight: bold;
   border-radius: 0.1em;
@@ -200,6 +201,7 @@ h4 {
 
 .scroll {
   margin: 0.5em;
+  box-shadow: 1px 1px 5px -1px #2a2a2a inset;
   border: solid 1px #2a2a2a;
   overflow: auto;
 }
@@ -242,6 +244,11 @@ h4 {
   font-size: 13px;
   line-height: 1.75em;
   letter-spacing: 0.05em;
+}
+
+a{
+  padding: 0em 0.3em;
+  background: linear-gradient(#f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #7facff);
 }
 
 a.mv{
