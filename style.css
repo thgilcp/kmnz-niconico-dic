@@ -1,8 +1,3 @@
-:root{
-  --liz: #ff9bdd;
-}
-
-
 body {
   max-width: 720px;
 }
@@ -259,9 +254,8 @@ h4 {
   letter-spacing: 0.05em;
 }
 
-a:not(.mv):not(.image){
-  padding: 0em 0.3em;
-  border-bottom: 2px dashed #9bdfff;
+.underline-normal{
+  background: linear-gradient(#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#9bdfff)
 }
 
 a.mv{
