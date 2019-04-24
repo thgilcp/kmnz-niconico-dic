@@ -15,6 +15,7 @@
   "author": "thgilcp",
   "license": "ISC",
   "dependencies": {
-    "css-inliner": "^1.1.4"
+    "css-inliner": "^1.1.4",
+    "cryptiles": ">=4.1.2"
   }
 }
