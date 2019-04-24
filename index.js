@@ -1,11 +1,11 @@
 var fs = require("fs");
 var CSSInliner = require("./node_modules/css-inliner");
 
-var html = fs.readFileSync("index.html", { encoding: "utf-8" });
+var html = fs.readFileSync("./src/index.html", { encoding: "utf-8" });
 const inliner = new CSSInliner({
-  directory: "."
+  directory: "./src/"
 });
 
 inliner.inlineCSSAsync(html).then(function(result) {
-  fs.writeFileSync("build.html", result, { encoding: "utf-8" });
+  fs.writeFileSync("./build/index.html", result, { encoding: "utf-8" });
 });
