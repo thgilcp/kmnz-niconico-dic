@@ -16,7 +16,7 @@ body * {
   background: #f9f9f9;
 }
 
-.base > .background-image{
+.base > .background-image {
   background-attachment: fixed;
 }
 
@@ -32,7 +32,7 @@ body * {
   border-bottom-color: #ff9bdd;
 }
 
-.underline.lita{
+.underline.lita {
   border-bottom-color: #ffcd9b;
 }
 
@@ -70,7 +70,7 @@ h4 {
   font-weight: bold;
 }
 
-.logo img{
+.logo img {
   width: 100%;
 }
 
@@ -96,7 +96,7 @@ h4 {
   overflow: auto;
 }
 
-.profile *{
+.profile * {
   background-color: transparent;
 }
 
@@ -146,7 +146,7 @@ h4 {
 
 .profile table.lita td {
   border-bottom: 2px solid #ffcd9b;
-  border-right:  2px solid #ffcd9b;
+  border-right: 2px solid #ffcd9b;
   color: #ffcd9b;
 }
 .profile table.liz td {
@@ -166,15 +166,15 @@ h4 {
   color: #ff9bdd;
 }
 
-.profile table.lita td.icon{
-  background: linear-gradient(#ffcd9b, #ff9bdd);
+.profile table.lita td.icon {
+  background: #ffcd9b;
   border-bottom: 2px solid #f9f9f9;
   border-right: 2px solid #f9f9f9;
   border-radius: 0.2em;
 }
 
-.profile table.liz td.icon{
-  background: linear-gradient(#ff9bdd, #ffcd9b);
+.profile table.liz td.icon {
+  background: #ff9bdd;
   border-bottom: 2px solid #f9f9f9;
   border-right: 2px solid #f9f9f9;
   border-radius: 0.2em;
@@ -254,28 +254,28 @@ h4 {
   letter-spacing: 0.05em;
 }
 
-.underline-normal{
-  background: linear-gradient(#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#f9f9f9,#9bdfff)
+.underline-normal {
+  background: linear-gradient(#f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #f9f9f9, #9bdfff);
 }
 
-a.mv{
+a.mv {
   color: #f9f9f9;
   font-weight: bold;
   padding: 0.2em 0.5em;
   border-radius: 0.2em;
 }
-a.mv.lita{
+a.mv.lita {
   background: linear-gradient(#ffcd9b, #ffcd9b, #ffcd9b, #ff9bdd);
 }
-a.mv.liz{
-  background:#ff9bdd;
+a.mv.liz {
+  background: #ff9bdd;
 }
-a.mv.lita.liz{
+a.mv.lita.liz {
   background: linear-gradient(#ffcd9b, #ff9bdd);
 }
-a.mv.lita.liz.yaca{
+a.mv.lita.liz.yaca {
   background: linear-gradient(#ffcd9b, #ff9bdd, #ddff9a);
 }
-a.mv.lita.liz.ponpoko{
+a.mv.lita.liz.ponpoko {
   background: linear-gradient(#ffcd9b, #ff9bdd, #ddff9a);
 }
