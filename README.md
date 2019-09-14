@@ -1,20 +1,22 @@
-# KMNZニコニコ大百科
+# kmnz-niconico-dic
 
-## セットアップ
-```shell
-git clone https://github.com/thgilcp/kmnz-niconico-dic.git
-cd kmnz-niconico-dic
-npm install
+> My mathematical Nuxt.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
 ```
 
-## ビルド
-```shell
-npm run build
-```
-
-## サイト
-PC版表示
-https://dic.nicovideo.jp/a/kmnz?v=pc&from=look_pcver
-
-スマホ版表示
-https://dic.nicovideo.jp/t/a/kmnz?v=sp&from=look_spver
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
