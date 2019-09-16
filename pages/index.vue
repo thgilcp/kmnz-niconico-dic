@@ -15,6 +15,7 @@ export default {
 
 <style>
 #content {
+  max-width: 720px;
   background: #fdfdfd;
 }
 
@@ -56,7 +57,7 @@ h4 {
 
 .scroll {
   padding: 10px;
-  overflow-y: scroll;
+  overflow: scroll;
   box-shadow: 1px 1px 5px -1px #2a2a2a inset;
   border: solid 1px #2a2a2a;
   max-height: 300px;
@@ -86,15 +87,28 @@ h4 {
 }
 
 .profile .icon {
-  max-width: 200px;
-}
-
-.profile .icon img {
-  width: 100%;
+  max-width: 100px;
 }
 
 .profile table {
   width: 100%;
+}
+
+.profile th {
+  font-weight: bold;
+  padding: 5px;
+  color: #fdfdfd;
+}
+
+.profile .head {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+  color: #111;
+}
+
+.profile td {
+  font-size: 14px;
 }
 
 .scroll > ul {
@@ -102,7 +116,7 @@ h4 {
 }
 
 .music table {
-  padding: 10px 0 20px 0;
+  margin: 10px 0 20px 0;
 }
 
 .music table th {
@@ -166,25 +180,14 @@ h4 {
   background: #3381ff;
 }
 
-th {
-  font-size: 20px;
-  font-weight: bold;
-  padding: 5px;
-  color: #fdfdfd;
-}
-
 th.lita {
   background: #fe9955;
+  border: 2px #fe9955 solid;
 }
 
 th.liz {
   background: #f95599;
-}
-
-.head {
-  font-weight: bold;
-  padding: 5px;
-  color: #111;
+  border: 2px #fe5599 solid;
 }
 
 td.lita {

@@ -5,13 +5,26 @@
 </template>
 
 <style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  max-width: 720px;
+* {
+  /* margin: 0;
+  padding: 0; */
 }
 
-* {
+body,
+table,
+thead,
+tbody,
+td,
+th,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  background: none;
+  border: none;
   margin: 0;
   padding: 0;
 }
@@ -25,15 +38,9 @@ td,
 th,
 p,
 li {
-  font-family: Verdana, Roboto, 'Droid Sans', 'BIZ UDPGothic', '游ゴシック',
-    YuGothic, 'メイリオ', Meiryo, 'ヒラギノ角ゴ ProN W3',
-    'Hiragino Kaku Gothic ProN', 'ＭＳ Ｐゴシック', sans-serif;
+  color: #111;
   font-size: 16px;
   line-height: 1em;
-}
-
-table {
-  border-spacing: 0;
 }
 
 ul {
@@ -41,11 +48,17 @@ ul {
 }
 
 li > ul {
-  padding: 0 0 10px 20px;
+  margin-left: 0px;
+  padding: 0 0 10px 10px;
+}
+
+li {
+  margin-bottom: 0;
 }
 
 p,
 li {
+  color: #111;
   line-height: 1.5em;
   letter-spacing: 0.05em;
 }

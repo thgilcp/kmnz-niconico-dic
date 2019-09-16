@@ -101,7 +101,7 @@ OK おておかわり<br/>
 #### nino
 
 ::: .article
-KMNZ のプロデューサー。不定期で「NINOTALK」という配信をしており、KMNZ をプロデュースする上での思いや、カルチャーの話をしている。KMZN のプロデューサ－だけあり、Twitter にはたびたびオシャレな画像をツイートしている。ちなみに、リズ公認のツイ廃である。
+KMNZ のプロデューサー。不定期で「NINOTALK」という配信をしており、KMNZ をプロデュースする上での思いや、カルチャーの話をしている。KMZN のプロデューサーだけあり、Twitter にはたびたびオシャレな画像をツイートしている。ちなみに、リズ公認のツイ廃である。
 :::
 
 #### Saka-niki
@@ -113,13 +113,13 @@ KMNZ のプロデューサーで、「VIRTUAL BUZZ TALK!」の立ち上げにも
 #### BLUES
 
 ::: .article
-KMNZ のカバー曲ほぼすべてにオケ製作として関わっている。カバー曲の「琥珀色の街、上海蟹の朝」では、自身のボイスパーカッションをドラムとして使用するなど、ハイスペックである。以前までは表に出てこなかったが、2019 年になってから Twitter のアカウントを作成や#KMNZRADIO に登場するなど、表に出ることが増えた。
+KMNZ のカバー曲ほぼすべてにオケ製作として関わっている。カバー曲の「琥珀色の街、上海蟹の朝」では、自身のボイスパーカッションをドラムとして使用するなど、ハイスペックである。以前までは表に出てこなかったが、2019 年になってから Twitter のアカウントを作成や #KMNZRADIO に登場するなど、表に出ることが増えた。
 :::
 
 #### YACA IN DA HOUSE
 
 ::: .article
-またの名をワニのヤカ 🐊。YouTube でオリジナルの楽曲を公開しているかたわら、KMNCREW としても活動している。KMNZ とは、オリジナル曲の「 IFIF 」でコラボしたほか、カバー曲の「 水星 」ではリタとデュエットしている。ファンからはヤカニキと呼ばれ慕われている。
+またの名をワニのヤカ 🐊。YouTube でオリジナルの楽曲を公開しているかたわら、KMNCREW としても活動している。KMNZ とは、オリジナル曲の「IFIF」でコラボしたほか、カバー曲の「水星」ではリタとデュエットしている。ファンからはヤカニキと呼ばれ慕われている。
 :::
 
 ## Activity
@@ -141,9 +141,11 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 #### 2019 年
 
 - 9 月
-  - 29 日 **「 FAVRIC 」**/ 出演予定
 - 8 月
+  - 31 日 **「 Creator Super Fest 2019 」**/ 出演
+  - 15 日 **「 ケモミミ人狼 」**/ REALITY バラエティー出演
 - 7 月
+  - 28 日 **「 歌合戦 〜氷と炎の戦い〜Ⅱ 」**/ bilibili 音楽イベント出演
   - 20 日 **「 VIRTUAFREAK - summer night - 」**/ 出演
   - 06 日 **「 KMNHZ SECOND MEETUP 」**/ 第 2 回限定オンラインイベント開催
   - 03 日 **「 KMNZ 1st ALBUM PROJECT 」**/ アルバム制作 CF 開始
@@ -209,6 +211,22 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 :::
 
+### Future
+
+::: .scroll
+
+#### 2019 年
+
+- 12 月
+  - **「 NEWVIEW AWARDS 2019 」**/ VR コンテンツアワードプライズオーナー
+- 11 月
+- 10 月
+  - **「ファーストアルバムリリース」**/ CF リターン発送予定
+- 9 月
+  - 29 日 **「 FAVRIC 」**/ 音楽 × ファッションイベント
+
+:::
+
 ### Music
 
 #### Original
@@ -217,12 +235,16 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 **VR - Virtual Reality**
 
-- Vocal: KMNZ
+- MC: KMNZ LITA、KMNZ LIZ
 - Music: Ujico\*/Snail's House
 - lyrics: KMNCREW
 
-| [YouTube](https://www.youtube.com/watch?v=nhFgmVDPNlo) {.youtube} | [iTunes & Apple Music](https://music.apple.com/jp/album/1457815219?app=itunes) {.itunes} | [Spotify](https://open.spotify.com/album/1FhgWBh4tVQgfFsGVh4OTU) {.spotify} | [Other](https://linkco.re/ecph0e2H) {.other} |     |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------- | --- |
+| [YouTube](https://www.youtube.com/watch?v=nhFgmVDPNlo) {.youtube} | [iTunes](https://music.apple.com/jp/album/1457815219?app=itunes) {.itunes} |     |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------- | --- |
+
+
+| [Spotify](https://open.spotify.com/album/1FhgWBh4tVQgfFsGVh4OTU) {.spotify} | [Other](https://linkco.re/ecph0e2H) {.other} |     |
+| --------------------------------------------------------------------------- | -------------------------------------------- | --- |
 
 
 :::
@@ -231,12 +253,16 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 **Augmentation**
 
-- Vocal: KMNZ
+- MC: KMNZ LITA、KMNZ LIZ
 - Music: Moe Shop
-- lyrics: KMNCREW(NINO&LITA)
+- lyrics: KMNCREW（NINO&LITA）
 
-| [YouTube](https://www.youtube.com/watch?v=PbGddpIfXeQ) {.youtube} | [iTunes & Apple Music](https://music.apple.com/jp/album/1458803765?app=itunes) {.itunes} | [Spotify](https://open.spotify.com/album/0PxCslPCQ1bnXEVOwppNiy) {.spotify} | [Amazon](https://www.amazon.co.jp/dp/B07QCBNTFH) {.amazon} |     |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
+| [YouTube](https://www.youtube.com/watch?v=PbGddpIfXeQ) {.youtube} | [iTunes](https://music.apple.com/jp/album/1458803765?app=itunes) {.itunes} |     |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------- | --- |
+
+
+| [Spotify](https://open.spotify.com/album/0PxCslPCQ1bnXEVOwppNiy) {.spotify} | [Amazon](https://www.amazon.co.jp/dp/B07QCBNTFH) {.amazon} |     |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
 
 
 :::
@@ -252,8 +278,12 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 - lyrics: レオタードブタ
 - Mix: ヤカ
 
-| [YouTube](https://www.youtube.com/watch?v=VIAeoxvevaM) {.youtube} | [iTunes](https://music.apple.com/jp/album/1435485362?app=itunes) {.itunes} | [Spotify](https://open.spotify.com/album/7K2CBj5JZGkJ4vmB8sIBEE) {.spotify} | [Other](https://linkco.re/N0By9X12) {.other} |     |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------- | --- |
+| [YouTube](https://www.youtube.com/watch?v=VIAeoxvevaM) {.youtube} | [iTunes](https://music.apple.com/jp/album/1435485362?app=itunes) {.itunes} |     |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------- | --- |
+
+
+| [Spotify](https://open.spotify.com/album/7K2CBj5JZGkJ4vmB8sIBEE) {.spotify} | [Other](https://linkco.re/N0By9X12) {.other} |     |
+| --------------------------------------------------------------------------- | -------------------------------------------- | --- |
 
 
 :::
@@ -262,7 +292,7 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 **IFIF - YACA IN DA HOUSE**
 
-- Vocal: KMNZ LITA、KMNZ LIZ、YACA IN DA HOUSE
+- MC: KMNZ LITA、KMNZ LIZ、YACA IN DA HOUSE
 - Music: YACA IN DA HOUSE
 - lyrics: YACA IN DA HOUSE
 
@@ -276,12 +306,16 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 **Home Sweet Home - Neko Hacker**
 
-- Vocal: ぽんぽこ、KMNZ LITA、KMNZ LIZ
+- MC: KMNZ LIZ
 - Music: Neko Hacker
 - lyrics: Neko Hacker
 
-| [YouTube](https://www.youtube.com/watch?v=tE-J5q8OCF0) {.youtube} | [iTunes](https://music.apple.com/jp/album/1457815219) {.itunes} | [Spotify](https://open.spotify.com/album/6pCkiEztBjK8NTVTrH8KLj) {.spotify} | [Amazon](https://www.amazon.co.jp/dp/B07QFFV37B) {.amazon} |     |
-| ----------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
+| [YouTube](https://www.youtube.com/watch?v=tE-J5q8OCF0) {.youtube} | [iTunes](https://music.apple.com/jp/album/1457815219) {.itunes} |     |
+| ----------------------------------------------------------------- | --------------------------------------------------------------- | --- |
+
+
+| [Spotify](https://open.spotify.com/album/6pCkiEztBjK8NTVTrH8KLj) {.spotify} | [Amazon](https://www.amazon.co.jp/dp/B07QFFV37B) {.amazon} |     |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
 
 
 :::
@@ -300,6 +334,7 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 - Happy Halloween - Junky
 - Strawberry Chips - HALCALI
 - 愛のしるし - PUFFY
+- 渚にまつわるエトセトラ - PUFFY
 
 #### LITA
 
@@ -312,6 +347,8 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 - 心做し - 蝶々 P
 - 丸の内サディスティック - 椎名林檎
 - MOGU MOGU - 鎮座 DOPENESS
+- アイロニ - すこっぷ
+- 楽園ベイベー - RIP SLYME
 
 #### LIZ
 
@@ -331,6 +368,9 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 - ただ君に晴れ - ヨルシカ
 - ダンスロボットダンス - ナユタン星人
 - ビースト・ダンス - 和田たけあき（くらげ P）
+- ホワイトハッピー - MARETU
+- テレキャスタービーボーイ - すりぃ
+- GO!GO!MANIAC - 放課後ティータイム
 
 #### KMNZ, EMMA, YACA
 
@@ -342,7 +382,7 @@ KMNZ はユニットではあるが別々の YouTube チャンネルを開設し
 
 ::: .article
 
-KMNSUPPLY（ケモノサプライ）とは、KMNZ 公式のアパレルストアである。2018 年 10 月 5 日にオープンし、「KMNHOODIE」と「KMNT with Serial Number」、さらに、それらに加えて「KMNHZ FIRST MEETUP TICKET・Limited Sticker・Limited PostCards」が同梱される「KMNPACK」が販売された。
+**KMNSUPPLY（ケモノサプライ）** とは、KMNZ 公式のアパレルストアである。2018 年 10 月 5 日にオープンし、「KMNHOODIE」と「KMNT with Serial Number」、さらに、それらに加えて「KMNHZ FIRST MEETUP TICKET・Limited Sticker・Limited PostCards」が同梱される「KMNPACK」が販売された。
 
 販売は 0 時から行われたが、注文が殺到しすべての商品が 5 分程で売り切れとなった。その後も在庫を増やし再販などするが、毎回短時間で売り切れとなっている。
 
@@ -363,7 +403,7 @@ KMNSUPPLY（ケモノサプライ）とは、KMNZ 公式のアパレルストア
 
 ::: .article
 
-KMNCLUB ( ケモノクラブ ) は、KMNZ のファンクラブである。
+**KMNCLUB（ケモノクラブ）** とは、KMNZ のファンクラブである。
 
 限定コンテンツとして、限定ラジオ配信、CLUB 会員向けメッセージ、イベント先行予約などが予定されている。 詳しくは KMNCLUB 公式ページを参照。
 
@@ -380,7 +420,7 @@ KMNCLUB ( ケモノクラブ ) は、KMNZ のファンクラブである。
 
 ::: .article
 
-KMNZRADIO とは、KMNZ がそれぞれの YouTube チャンネルで生配信するラジオである。マシュマロというサービスを使って投稿された視聴者からのお便りを読むコーナーや、歌のコーナーを行っている。
+**KMNZRADIO** とは、KMNZ がそれぞれの YouTube チャンネルで生配信するラジオである。マシュマロというサービスを使って投稿された視聴者からのお便りを読むコーナーや、歌のコーナーを行っている。
 
 :::
 
@@ -397,7 +437,7 @@ KMNZRADIO とは、KMNZ がそれぞれの YouTube チャンネルで生配信�
 
 ::: .article
 
-KMNZREALITY とは、KMNZ が REALITY ( VTuber 専用ライブ視聴・配信アプリ ) を使用して生配信するライブである。KMNZ が様々なことに挑戦する「 ケモノチャレンジ 」や、ファンアートを紹介する「 Weekly #kmnzart 」、KMNZ が生で歌を歌う「 ナマウタケモノズ 」などのコーナーがある。
+**KMNZREALITY** とは、KMNZ が REALITY ( VTuber 専用ライブ視聴・配信アプリ ) を使用して生配信するライブである。KMNZ がさまざまなことに挑戦する「ケモノチャレンジ」や、ファンアートを紹介する「Weekly #kmnzart」、KMNZ が生で歌を歌う「ナマウタケモノズ」などのコーナーがある。
 
 :::
 
@@ -414,9 +454,9 @@ KMNZREALITY とは、KMNZ が REALITY ( VTuber 専用ライブ視聴・配信ア
 
 ::: .article
 
-ぶいおん！！とは、REALITY ( VTuber 専用ライブ視聴・配信アプリ ) にて隔週レギュラーで生配信されている音楽番組である。
+**ぶいおん！！** とは、REALITY ( VTuber 専用ライブ視聴・配信アプリ ) にて隔週レギュラーで生配信されている音楽番組である。
 
-MNZ タント MC>MC として出演するのは、けものフレンズのオープニングテーマ ようこそジャパリパークへ の作詞・作曲などで有名なオーイシマサヨシである。
+MC として出演するのは、けものフレンズのオープニングテーマ「ようこそジャパリパークへ」の作詞・作曲などで有名なオーイシマサヨシである。
 
 KMNZ はアシスタント MC を務めている。
 
@@ -435,7 +475,7 @@ KMNZ はアシスタント MC を務めている。
 
 ::: .article
 
-nana とは、音楽コミュニケーションを楽しめるアプリである。KMNZ は、nana の公式アカウントとして様々なカバー曲を歌っている。
+**nana** とは、音楽コミュニケーションを楽しめるアプリである。KMNZ は、nana の公式アカウントとしてさまざまなカバー曲を歌っている。
 
 :::
 
@@ -452,7 +492,7 @@ nana とは、音楽コミュニケーションを楽しめるアプリである
 
 ::: .article
 
-ツイキャス とは、ライブ配信を行えるサービスである。LIZ は、ツイキャスにてボカロ曲を中心にカラオケ配信を行っている。
+**ツイキャス** とは、ライブ配信を行えるサービスである。LIZ は、ツイキャスにてボカロ曲を中心にカラオケ配信を行っている。
 
 :::
 
@@ -469,7 +509,7 @@ nana とは、音楽コミュニケーションを楽しめるアプリである
 
 公式で配信している KMNZREALITY とは別に、リタ・リズがそれぞれ別々にユーザー配信を行っている。企画などもなく、ゆるい配信となっている。
 
-リタは、この REALITY のユーザー配信では睡眠導入を心がけるため「 いいねやコメントを積極的にしない静かな配信にしたい 」と述べていた。
+リタは、この REALITY のユーザー配信では睡眠導入を心がけるため「いいねやコメントを積極的にしない、静かな配信にしたい」と述べていた。
 
 リズは、初回配信のみシステムの関係上公式アカウントが使えないため、別アカウントであるクリスティーナとして配信していた。以後は公式のアカウントのみを使用している。
 
@@ -482,15 +522,4 @@ nana とは、音楽コミュニケーションを楽しめるアプリである
 [#りたりてぃ - Twitter](https://twitter.com/search?q=%E3%82%8A%E3%81%9F%E3%82%8A%E3%81%A6%E3%81%83) {.twitter}
 
 <br/>
-:::
-
-## 関連項目
-
-::: .list
-
-- バーチャル
-- バーチャル YouTuber
-- YouTuber
-- GREE
-
 :::
