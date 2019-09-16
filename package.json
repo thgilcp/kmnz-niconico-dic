@@ -8,10 +8,11 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate && node index.js"
   },
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.6",
+    "css-inliner": "^1.1.4",
     "markdown-it-attrs": "^3.0.1",
     "markdown-it-div": "^1.1.0",
     "markdown-it-underline": "^1.0.1",
