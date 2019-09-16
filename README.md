@@ -1,6 +1,6 @@
 # kmnz-niconico-dic
 
-> My mathematical Nuxt.js project
+> My finest Nuxt.js project
 
 ## Build Setup
 

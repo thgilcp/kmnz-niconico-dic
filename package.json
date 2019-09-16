@@ -1,7 +1,7 @@
 {
   "name": "kmnz-niconico-dic",
   "version": "1.0.0",
-  "description": "My mathematical Nuxt.js project",
+  "description": "My finest Nuxt.js project",
   "author": "thgilcp",
   "private": true,
   "scripts": {
@@ -11,6 +11,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.6",
+    "markdown-it-attrs": "^3.0.1",
+    "markdown-it-div": "^1.1.0",
+    "markdown-it-underline": "^1.0.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
