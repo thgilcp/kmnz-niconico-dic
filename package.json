@@ -1,22 +1,26 @@
 {
   "name": "kmnz-niconico-dic",
-  "version": "2.1.0",
-  "description": "PC版表示 https://dic.nicovideo.jp/a/kmnz?v=pc&from=look_pcver",
-  "scripts": {
-    "build": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thgilcp/kmnz-niconico-dic"
-  },
-  "keywords": [
-    "KMNZ"
-  ],
+  "version": "1.0.0",
+  "description": "My finest Nuxt.js project",
   "author": "thgilcp",
-  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate && node index.js"
+  },
   "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.6",
     "css-inliner": "^1.1.4",
-    "cryptiles": ">=4.1.2",
-    "hoek": ">=4.2.1"
+    "markdown-it-attrs": "^3.0.1",
+    "markdown-it-div": "^1.1.0",
+    "markdown-it-underline": "^1.0.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
   }
 }

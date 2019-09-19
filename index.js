@@ -1,11 +1,13 @@
-var fs = require("fs");
-var CSSInliner = require("./node_modules/css-inliner");
+var fs = require('fs')
+var html = fs.readFileSync('./dist/index.html', { encoding: 'utf-8' })
 
-var html = fs.readFileSync("./src/index.html", { encoding: "utf-8" });
+html = html.replace(/box-shadow:inset(.*?);/g, 'box-shadow:$1 inset;')
+html = html.replace(/(:| )\.(\d+?)(em|px)/g, '$1 0.$2$3')
+
+var CSSInliner = require('./node_modules/css-inliner')
 const inliner = new CSSInliner({
-  directory: "./src/"
-});
-
+  directory: './dist/'
+})
 inliner.inlineCSSAsync(html).then(function(result) {
-  fs.writeFileSync("./build/index.html", result, { encoding: "utf-8" });
-});
+  fs.writeFileSync('./inlined/index.html', result, { encoding: 'utf-8' })
+})
